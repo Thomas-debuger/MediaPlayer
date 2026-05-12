@@ -21,9 +21,8 @@
 <img width="742" height="482" alt="螢幕擷取畫面 2026-05-12 135716" src="https://github.com/user-attachments/assets/b82b2388-f56f-4106-8567-327e608d58c8" />
 <img width="935" height="585" alt="螢幕擷取畫面 2026-05-12 135747" src="https://github.com/user-attachments/assets/b4f0b4a6-0308-4512-82e3-5b75e1bf6eb3" />
 <img width="745" height="482" alt="螢幕擷取畫面 2026-05-12 135831" src="https://github.com/user-attachments/assets/176b62c7-5de9-4572-ad7f-b0a4c6f0c413" />
-<img width="746" height="481" alt="螢幕擷取畫面 2026-05-12 135928" src="https://github.com/user-attachments/assets/23bcc5c6-b1d0-43cd-bbb8-a0d592ef83dc" />
 <img width="745" height="482" alt="螢幕擷取畫面 2026-05-12 135902" src="https://github.com/user-attachments/assets/dad2b2e9-64d8-49b2-8c74-ae889f041088" />
-
+<img width="746" height="481" alt="螢幕擷取畫面 2026-05-12 135928" src="https://github.com/user-attachments/assets/23bcc5c6-b1d0-43cd-bbb8-a0d592ef83dc" />
 
 ## 執行與編譯說明 (Getting Started)
 
